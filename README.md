@@ -1,4 +1,4 @@
-# Lab 1: Refactoring & Architecture Evolution
+# Ilya Zeldner -  Lab 1: Refactoring & Architecture Evolution
 
 This project demonstrates the step-by-step refactoring of a commercial discount calculation engine for the **Introduction to Software Testing** course.
 
